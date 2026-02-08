@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VIVAR Corretora de Seguros - Proteção para o que importa</title>
-    <meta name="description" content="VIVAR Corretora de Seguros: Mais de 15 anos protegendo o que é importante para você. Seguro Auto, Residencial, Saúde, Empresarial e Vida.">
+    <title>VIVAR Corretora de Seguros - Proteção para o que importa para você</title>
+    <meta name="description" content="VIVAR Corretora de Seguros: Sempre protegendo o que é importante para você. Seguro Auto, Residencial, Saúde, Empresarial e Vida.">
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

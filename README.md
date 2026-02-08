@@ -117,7 +117,7 @@
             <div class="max-w-2xl animate-fade-in-up">
                 <span class="bg-vivar-gold text-vivar-blue px-3 py-1 rounded-full text-xs font-bold uppercase mb-4 inline-block">Tradição e Confiança</span>
                 <h1 class="font-montserrat font-extrabold text-4xl md:text-6xl mb-6 leading-tight">Sua vida protegida por quem entende.</h1>
-                <p class="text-lg mb-8 opacity-90">Há mais de 15 anos oferecendo as melhores coberturas com atendimento humano e personalizado.</p>
+                <p class="text-lg mb-8 opacity-90">Oferecemos as melhores coberturas com atendimento humano e personalizado.</p>
                 <div class="flex flex-wrap gap-4">
                     <a href="#cotacao" class="bg-white text-vivar-blue font-bold px-8 py-4 rounded-lg hover:bg-gray-100 transition">Simular Seguro</a>
                     <a href="#servicos" class="border-2 border-white text-white font-bold px-8 py-4 rounded-lg hover:bg-white hover:text-vivar-blue transition">Nossos Planos</a>
@@ -163,10 +163,10 @@
             </div>
             <div class="lg:w-1/2">
                 <h2 class="font-montserrat font-bold text-3xl text-vivar-blue mb-6">Por que escolher a VIVAR?</h2>
-                <p class="text-gray-600 mb-6 text-lg leading-relaxed">Com uma trajetória sólida de 15 anos, transformamos a complexidade dos seguros em tranquilidade para nossos clientes. Não vendemos apenas apólices, entregamos segurança para os seus sonhos.</p>
+                <p class="text-gray-600 mb-6 text-lg leading-relaxed">Com uma trajetória sólida e inovadora, transformamos a complexidade dos seguros em tranquilidade para nossos clientes. Não vendemos apenas apólices, entregamos segurança para os seus sonhos.</p>
                 <ul class="space-y-4">
                     <li class="flex items-center gap-3 font-semibold text-vivar-blue">
-                        <i class="fas fa-check-circle text-vivar-green"></i> Mais de 10.000 clientes atendidos
+                        <i class="fas fa-check-circle text-vivar-green"></i> Clientes atendidos atendidos com segurança e agilidade
                     </li>
                     <li class="flex items-center gap-3 font-semibold text-vivar-blue">
                         <i class="fas fa-check-circle text-vivar-green"></i> Parceria com as 20 maiores seguradoras
@@ -222,9 +222,9 @@
                 <div>
                     <h4 class="font-bold mb-6 text-vivar-gold">Contato</h4>
                     <ul class="text-gray-400 space-y-3 text-sm">
-                        <li><i class="fas fa-map-marker-alt mr-2 text-vivar-gold"></i> Av. Paulista, 1000 - SP</li>
-                        <li><i class="fas fa-phone mr-2 text-vivar-gold"></i> (11) 3333-4444</li>
-                        <li><i class="fab fa-whatsapp mr-2 text-vivar-gold"></i> (11) 99999-8888</li>
+                        <li><i class="fas fa-map-marker-alt mr-2 text-vivar-gold"></i> Rua Acre, 700 Joá- Lagoa Santa- MG</li>
+                        <li><i class="fas fa-phone mr-2 text-vivar-gold"></i> (31) 3261-0393</li>
+                        <li><i class="fab fa-whatsapp mr-2 text-vivar-gold"></i> (31) 99078-0441</li>
                     </ul>
                 </div>
                 <div>

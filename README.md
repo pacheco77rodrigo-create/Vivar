@@ -69,7 +69,7 @@
     <div class="bg-vivar-blue text-white py-2 hidden md:block">
         <div class="container mx-auto px-4 flex justify-between items-center text-xs">
             <div class="flex space-x-6">
-                <span><i class="fas fa-phone-alt mr-2 text-vivar-gold"></i>(11) 3333-4444</span>
+                <span><i class="fas fa-phone-alt mr-2 text-vivar-gold"></i>(31) 3261-0393</span>
                 <span><i class="fas fa-envelope mr-2 text-vivar-gold"></i>contato@vivarcorretora.com.br</span>
             </div>
             <div class="flex space-x-4">
